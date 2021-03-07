@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: `/blog`,
   siteMetadata: {
     title: `Katie's Awesome Blog`,
     name: `Katie Anderson`,
-    siteUrl: `https://andekat.com/blog`,
+    siteUrl: `https://andekat101.github.io/blog`,
     description: `Tips, tricks, tools, security, and discussions about our digital lives`,
     hero: {
       heading: ``,
@@ -23,7 +24,7 @@ module.exports = {
     {
       resolve: '@narative/gatsby-theme-novela',
       options: {
-        basePath: "/blog",
+        basePath: "/",
         authorsPage: true,
         icon: `src/assets/favicon.png`,
       },
@@ -33,7 +34,7 @@ module.exports = {
       options: {
         name: `Katie Anderson`,
         short_name: `Katie`,
-        start_url: `/blog`,
+        start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
