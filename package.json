@@ -9,8 +9,7 @@
     "build": "gatsby build",
     "dev": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "@narative/gatsby-theme-novela": "^0.18.6",
