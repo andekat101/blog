@@ -3,10 +3,11 @@ on:
   push:
     branches:
       - 'main'
+      - 'more-fixes'
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    environment: github-pages
     steps:
       - uses: actions/checkout@v1
       - uses: enriikke/gatsby-gh-pages-action@v2
