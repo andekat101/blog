@@ -1,9 +1,8 @@
 module.exports = {
-  pathPrefix: `/blog`,
   siteMetadata: {
     title: `Katie's Awesome Blog`,
     name: `Katie Anderson`,
-    siteUrl: `https://andekat101.github.io/blog`,
+    siteUrl: `https://blog.andekat.com`,
     description: `Tips, tricks, tools, security, and discussions about our digital lives`,
     hero: {
       heading: ``,

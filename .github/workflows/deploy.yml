@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - 'main'
-      - 'more-fixes'
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -14,4 +13,3 @@ jobs:
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           deploy-branch: gh-pages
-          gatsby-args: --prefix-paths
