@@ -13,31 +13,29 @@ collections:
     folder: 'content/posts'
     create: true
     delete: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    path: "{{slug}}/index"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    path: '{{slug}}/index'
     media_folder: 'images'
     public_folder: './images'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', valueField: 'name', searchFields: ['name'] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD', dateFormat: 'YYYY-MM-DD', timeFormat: false }
-      - { label: "Excerpt", name: "excerpt", widget: "string", required: false }
-      - { label: "Hero", name: "hero", widget: "image" }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'string', required: false }
+      - { label: 'Hero', name: 'hero', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: "authors"
-    label: "Authors"
-    folder: "content/authors"
+  - name: 'authors'
+    label: 'Authors'
+    folder: 'content/authors'
     create: true
     delete: true
-    extension: "yml"
-    format: "yaml-frontmatter"
-    identifier_field: "name"
-    media_folder: "avatars"
-    public_folder: "./avatars"
+    identifier_field: 'name'
+    media_folder: 'avatars'
+    public_folder: './avatars'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: Name, name: name, widget: string }
       - { label: Bio, name: bio, widget: string }
