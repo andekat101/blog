@@ -28,9 +28,10 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'authors'
     label: 'Authors'
-    files: 'content/authors/authors.yml'
+    folder: 'content/authors'
     create: true
     delete: true
+    format: "yml"
     identifier_field: 'name'
     media_folder: 'avatars'
     public_folder: './avatars'
