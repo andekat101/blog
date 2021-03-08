@@ -28,7 +28,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'authors'
     label: 'Authors'
-    folder: 'content/authors'
+    folder: "content/authors/authors"
     create: true
     delete: true
     format: "yml"
