@@ -2,8 +2,10 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: static/img
-public_folder: /img
+publish_mode: editorial_workflow
+
+media_folder: static/images/uploads
+public_folder: /images/uploads
 
 collections:
   - name: 'posts'
@@ -29,7 +31,8 @@ collections:
     folder: "content/authors"
     create: true
     delete: true
-    format: "yml"
+    extension: "yml"
+    format: "yaml-frontmatter"
     identifier_field: "name"
     media_folder: "avatars"
     public_folder: "./avatars"
