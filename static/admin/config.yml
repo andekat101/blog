@@ -28,7 +28,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'authors'
     label: 'Authors'
-    file: 'content/authors/authors.yml'
+    files: 'content/authors/authors.yml'
     create: true
     delete: true
     identifier_field: 'name'
