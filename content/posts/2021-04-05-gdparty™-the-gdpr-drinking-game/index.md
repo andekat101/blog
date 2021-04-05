@@ -2,7 +2,7 @@
 title: "GDPaRty™: The GDPR Drinking Game"
 author: Katie Anderson
 date: 2021-04-04
-hero: images/gdparty-circle.jpg
+hero: images/gdparty-circle-wide.jpg
 ---
 For those who work with data processing, compliance, security, legal, etc., the creation of the EU’s General Data Protection Regulations (GDPR) had major impact in how user data of European citizens is handled. From the Microsoft Security side, it also meant a lot of work around product development, messaging, and training for data processing and sharing ahead of the May 2018 implementation.
 
