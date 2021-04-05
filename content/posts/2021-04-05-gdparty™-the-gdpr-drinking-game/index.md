@@ -16,16 +16,16 @@ Without further ado… Here are the rules for GDPaRty™: The GDPR Drinking Game
 
 Card      | Rules
 ----------|-----------
-**Ace**   | **Regulatory Announcement!**<br>Stand up and give a 60 second speech on any topic in a European accent of your choice! 
-**King**  | **Data Protection Officer**<br>Make a rule.<br>All players must obey this rule for the rest of the game.
-**Queen** | **Data Processor**<br>For the next round, you only communicate through hand motions and miming.
-**Jack**  | **Data Breach!**<br>You choose: share a secret or finish your drink
-**10**    | **Pseudonymization**<br>Rename one other player for the remainder of the game.<br>All players must address them by their new name - or drink!
-**9**     | **Right in Relation to Automated Decision Making and Profiling**<br>Choose another player to drink whenever you drink.
-**8**     | **Right to Object**<br>Ignore any rules that are currently in play for one round.
-**7**     | **Right to Data Portability**<br>Play a round of Telephone.<br>If the end phrase is different than the initial phrase, everyone drinks.
-**6**     | **Right to Restrict Processing**<br>Touch the ground!<br>Last person to touch the ground must drink.
-**5**     | **Right to Erasure**<br>Choose a word to “erase” for the rest of the game.<br>Anytime someone says that word, they must drink.
-**4**     | **Right to Rectification**<br>Play 2 Truths and a Lie.<br>You tell three stories: two true, one lie, and other players guess which is the lie. Everyone who guesses incorrectly must drink; for every person who is correct, you take a drink.
-**3**     | **Right of Access**<br>Play a Round of “Questions”.<br>Whoever loses must drink.
-**2**     | **Right to be Informed**<br>Give one “Never Have I Ever”.<br>State something you have never done. Anyone who has done the activity must drink.
+**Ace**   | **Regulatory Announcement!**<br/>Stand up and give a 60 second speech on any topic in a European accent of your choice! 
+**King**  | **Data Protection Officer**<br/>Make a rule.<br/>All players must obey this rule for the rest of the game.
+**Queen** | **Data Processor**<br/>For the next round, you only communicate through hand motions and miming.
+**Jack**  | **Data Breach!**<br/>You choose: share a secret or finish your drink
+**10**    | **Pseudonymization**<br/>Rename one other player for the remainder of the game.<br/>All players must address them by their new name - or drink!
+**9**     | **Right in Relation to Automated Decision Making and Profiling**<br/>Choose another player to drink whenever you drink.
+**8**     | **Right to Object**<br/>Ignore any rules that are currently in play for one round.
+**7**     | **Right to Data Portability**<br/>Play a round of Telephone.<br/>If the end phrase is different than the initial phrase, everyone drinks.
+**6**     | **Right to Restrict Processing**<br/>Touch the ground!<br/>Last person to touch the ground must drink.
+**5**     | **Right to Erasure**<br/>Choose a word to “erase” for the rest of the game.<br/>Anytime someone says that word, they must drink.
+**4**     | **Right to Rectification**<br/>Play 2 Truths and a Lie.<br/>You tell three stories: two true, one lie, and other players guess which is the lie. Everyone who guesses incorrectly must drink; for every person who is correct, you take a drink.
+**3**     | **Right of Access**<br/>Play a Round of “Questions”.<br/>Whoever loses must drink.
+**2**     | **Right to be Informed**<br/>Give one “Never Have I Ever”.<br/>State something you have never done. Anyone who has done the activity must drink.
